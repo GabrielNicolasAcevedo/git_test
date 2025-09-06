@@ -1,0 +1,8 @@
+This has been created with:
+touch hello_world.txt
+
+This file has been updated using built in terminal text editor:
+nano hello_world.txt
+
+ctrl + O and than enter to save changes
+ctrl + x to exit text editor
