@@ -6,3 +6,7 @@ nano hello_world.txt
 
 ctrl + O and than enter to save changes
 ctrl + x to exit text editor
+
+
+This text has been added via vsCode uppon opening directory with 
+code .
